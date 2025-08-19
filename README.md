@@ -3,24 +3,24 @@ My beginner Python projects
 
 Beginner Level
 
-✅ Calculator (তুমি already করেছো)
+✅ Calculator
 
-✅ Number Guessing Game (random number generate করবে, user guess করবে)
+✅ Number Guessing Game
 
 ✅ Multiplication Table Generator
 
-✅ Temperature Converter (Celsius ↔ Fahrenheit ↔ Kelvin)
+✅ Temperature Converter
 
-✅ Simple To-Do List (console version)
+✅ Simple To-Do List 
 
-Intermediate (step by step শিখলে)
+Intermediate
 
-✅ Contact Book (dictionary দিয়ে name, phone, email save/show)
+✅ Contact Book 
 
 ✅ Password Generator
 
-✅ Simple Alarm Clock (time check করে sound play করবে)
+✅ Simple Alarm Clock 
 
-✅ Unit Converter (km ↔ miles, kg ↔ pounds ইত্যাদি)
+✅ Unit Converter 
 
-✅ File Organizer (folder-এর file গুলো extension অনুযায়ী আলাদা ফোল্ডারে সরাবে)
+✅ File Organizer 
